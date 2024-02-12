@@ -93,7 +93,7 @@ const UserWidget = ({ userId, picturePath }) => {
 
       <Divider />
 
-      {
+      
     </WidgetWrapper>
   );
 };
